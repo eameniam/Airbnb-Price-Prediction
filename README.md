@@ -38,4 +38,5 @@ https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis
 https://www.kaggle.com/kaushikjag/airbnb-seattle-new-host-pricing-tip-prediction
 
 And also the methods in Udacity Data Science nanodegree course
+
 https://www.udacity.com/course/data-scientist-nanodegree--nd025
