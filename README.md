@@ -8,6 +8,7 @@ I have been to Los Angeles for several times. Everytime I choose a suitable acco
 3. How is the feature of the lising house affecting the listing price?
 
 So in this notebook, I will conduct a reservation price analysis based on the Airbnb dataset.
+http://insideairbnb.com/get-the-data.html
 
 ## Approach and Methods
 In this project, I choose Los Angeles dataset from airbnb in Sep.2019.
