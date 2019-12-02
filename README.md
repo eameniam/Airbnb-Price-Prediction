@@ -31,3 +31,10 @@ Below are my steps for making conclusion based on the data analysis of factors a
 ·Applying several machine learning algorithm for further analysis
 
 5.Result and Conclusion
+
+For some methods applied in this project, I refer to the methods using in
+https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
+https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis
+https://www.kaggle.com/kaushikjag/airbnb-seattle-new-host-pricing-tip-prediction
+And also the methods in Udacity Data Science nanodegree course
+https://www.udacity.com/course/data-scientist-nanodegree--nd025
