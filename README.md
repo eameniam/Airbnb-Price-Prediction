@@ -1,11 +1,11 @@
 # Los-Angeles-Airbnb-Price-Analysis
 
 ## Introduction
-I have been to Los Angeles for several times. Everytime I choose a suitable accomodation for traveling is one of the most concert problem. When it comes to the decision of accomodation, there are many factors and the reservation price is one of them. For me, there are always several important features that I will think about before making decision：
+I have been to Los Angeles for several times. Everytime choosing a suitable accomodation for traveling is one of the most concert problem. When it comes to the decision of accomodation, there are many factors and the reservation price is one of them. For me, there are always several important features that I will think about before making decision：
 
 1. What is the average rental price in the area i want to visit?
 2. What time period is the busiest time during the whole year in los angeles?
-3. How is the feature of the lising house affecting the listing price?
+3. How is the feature of the listing house affecting the listing price?
 
 So in this notebook, I will conduct a reservation price analysis based on the Airbnb dataset.
 http://insideairbnb.com/get-the-data.html
