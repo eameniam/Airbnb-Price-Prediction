@@ -1,43 +1,31 @@
 # Los-Angeles-Airbnb-Price-Analysis
 
-## Introduction
-I have been to Los Angeles for several times. Everytime choosing a suitable accomodation for traveling is one of the most concert problem. When it comes to the decision of accomodation, there are many factors and the reservation price is one of them. For me, there are always several important features that I will think about before making decision：
+In this project, I focus on three business problems and predicted the reservation price using the KNN machine learning algorithm regarding the Los Angeles Airbnb Sep.2019 dataset.
 
-1. What is the average rental price in the area i want to visit?
-2. What time period is the busiest time during the whole year in los angeles?
-3. How is the feature of the listing house affecting the listing price?
+### Table of Contents
 
-So in this notebook, I will conduct a reservation price analysis based on the Airbnb dataset.
-http://insideairbnb.com/get-the-data.html
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Approach and Methods
-In this project, I choose Los Angeles dataset from airbnb in Sep.2019.
-Below are my steps for making conclusion based on the data analysis of factors affecting the reservation prices:
+## Installation <a name="installation"></a>
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-1.Business Understanding
-·What are the busiest times of the year to visit los angeles?
-·How is the reservation price affected by neighbourhood?
-·Which are the most relevant features on house rental prices?
+## Project Motivation<a name="motivation"></a>
 
-2.Data Understanding
-·Getting a glimpse on the dataset
-·Looking into the informations we have in the dataset
-·Handling the informations with missing values
+In this project, I focus on three business problems and predicted the reservation price using the KNN machine learning algorithm regarding the Los Angeles Airbnb Sep.2019 dataset.
+Particullary I have three questions to while looks throught the data:
 
-3.Data Preparation
-·Gather necessary data for data analyst
-·Removing the irrelevant information
+1.What are the busiest times of the year to visit Los Angeles?
+2.How is the reservation price affected by the neighborhood?
+3.Which are the most relevant features on house rental prices?
 
-4.Data Modeling
-·Applying several machine learning algorithm for further analysis
 
-5.Result and Conclusion
+## File Descriptions <a name="files"></a>
+There is a notebooks available here to showcase work related to the above questions.
+The notebooks contains my steps for making the conclusion based on the data analysis of factors affecting the reservation prices. Detail explanations are included to help  you walking throught process.
 
-For some methods applied in this project, I refer to the methods using in
-https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
-https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis
-https://www.kaggle.com/kaushikjag/airbnb-seattle-new-host-pricing-tip-prediction
-
-And also the methods in Udacity Data Science nanodegree course
-
-https://www.udacity.com/course/data-scientist-nanodegree--nd025
+## Results<a name="results"></a>
+The main findings of the code can be found at the post available [here](https://medium.com/@mainemayjane/los-angeles-airbnb-reservation-price-analysis-sep-2019-66aa3dc984c5).
