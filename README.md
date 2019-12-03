@@ -34,5 +34,4 @@ The main findings of the code can be found at the post available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The credit is given to Airbnb Dataset [here](http://insideairbnb.com/los-angeles/)
 And also the part of codes are refered to kaggle projects [here](https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis)
-[here]
-(https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis)
+[here](https://www.kaggle.com/cliffcheng/seattle-airbnb-intro-analysis)
