@@ -1,4 +1,4 @@
-# Los-Angeles-Airbnb-Price-Analysis
+# Airbnb-Price-Prediction
 
 In this project, I focus on three business problems and predicted the reservation price using the KNN machine learning algorithm regarding the Airbnb  dataset.
 
